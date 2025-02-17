@@ -1,10 +1,12 @@
-## Hi there 👋
+Hi, I'm Johannes Becker! 👋  
+🔗 Web3 & dApp developer focused on building decentralized applications on Solana and Ethereum. Passionate about UX, smart contracts, and decentralized technologies.
 
-- 🔭 I’m currently working on decentralized Web3 applications and smart contracts, particularly in the Solana and Ethereum ecosystems.
-- 🌱 I’m currently learning advanced cryptographic protocols and scalability solutions for blockchain.
-- 👯 I’m looking to collaborate on blockchain and DeFi projects.
-- 🤔 I’m looking for help with enhancing gas optimization in smart contracts.
-- 💬 Ask me about Solana, Ethereum, and decentralized technologies.
-- 📫 How to reach me: [email or GitHub link]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love integrating UI/UX with Web3 for seamless blockchain experiences!
+🚀 About Me  
+💻 Building innovative DeFi and NFT applications in Solana and Ethereum ecosystems  
+🎯 Focused on smart contract development, security, and gas optimization  
+🌱 Exploring cryptographic protocols and blockchain scalability solutions  
+🛠 Experienced in Rust, TypeScript, and smart contract auditing  
+🔬 Conducting security audits to strengthen smart contracts  
+🤝 Contributing to open-source Web3 projects  
+💬 Ask me about Solana, Ethereum, Web3, and blockchain development  
+📫 Let's connect: Twitter | LinkedIn | Website
