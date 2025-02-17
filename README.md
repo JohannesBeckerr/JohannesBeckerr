@@ -1,4 +1,4 @@
-Hi, I'm Johannes Becker! 👋  
+##Hi, I'm Johannes Becker! 👋  
 🔗 Web3 & dApp developer focused on building decentralized applications on Solana and Ethereum. Passionate about UX, smart contracts, and decentralized technologies.
 
 🚀 About Me  
